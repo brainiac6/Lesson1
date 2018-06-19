@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class main
@@ -31,4 +32,7 @@ public class main
         System.out.println( mporis +" na peeis poto");
     }
 
+=======
+public class main {
+>>>>>>> parent of abf0869... Ilikia kai onoma gia poto
 }
