@@ -15,7 +15,8 @@ public class main {
         System.out.println("pe m to onoma sou");
         onoma = sc.next();
         System.out.println("pe m thn ilikia sou");
-        ilikia = sc.nextInt();
+        //ilikia = sc.nextInt();
+        String s =sc.next();
         System.out.print("Onoma:" + onoma + " " + "Ilikia:" + ilikia + " ");
         checkare();
 
